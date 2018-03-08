@@ -1,1 +1,1 @@
-# JavaScriptArtifact
+Basic JavaScript program that uses a random number generator converted to an integer to grab a vacation desitination from an array and suggest it to the user.  Demonstrating understanding of JavaScript syntax after completing Codecademy Learn JavaScript course.  
